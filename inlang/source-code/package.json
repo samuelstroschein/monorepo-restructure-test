@@ -1,6 +1,7 @@
 {
   "name": "inlang",
   "workspaces": [
+    "../../lix/source-code/client",
     "./*"
   ]
 }
