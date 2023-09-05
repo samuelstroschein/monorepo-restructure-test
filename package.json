@@ -1,0 +1,10 @@
+{
+  "workspaces": [
+    "lix/source-code/*",
+    "inlang/source-code/*",
+    "placeholder-company/source-code/*"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspaces"
+  }
+}
