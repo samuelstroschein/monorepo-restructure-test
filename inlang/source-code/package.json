@@ -1,0 +1,6 @@
+{
+  "name": "inlang",
+  "workspaces": [
+    "./*"
+  ]
+}

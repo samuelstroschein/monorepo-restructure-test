@@ -1,0 +1,6 @@
+{
+  "name": "@inlang/sdk",
+  "dependencies": {
+    "typescript": "^4.1.2"
+  }
+}
