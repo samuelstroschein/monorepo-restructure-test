@@ -1,0 +1,10 @@
+{
+  "name": "@lix-js/client",
+  "type": "module",
+  "exports": {
+    ".": "./index.js"
+  },
+  "dependencies": {
+    "typescript": "^4.1.2"
+  }
+}
