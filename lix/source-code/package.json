@@ -1,5 +1,5 @@
 {
-  "name": "lix",
+  "name": "lix-source-code",
   "workspaces": [
     "./*"
   ]

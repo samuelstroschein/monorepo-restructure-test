@@ -1,3 +1,3 @@
-export function sayHello(name) {
+export function sayHelloFromClient(name) {
   return `Hello ${name}!`;
 }
