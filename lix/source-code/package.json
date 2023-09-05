@@ -1,6 +1,0 @@
-{
-  "name": "lix-source-code",
-  "workspaces": [
-    "./*"
-  ]
-}

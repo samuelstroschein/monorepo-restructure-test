@@ -1,7 +1,0 @@
-{
-  "name": "inlang-source-code",
-  "workspaces": [
-    "../../lix/source-code/*",
-    "./*"
-  ]
-}
