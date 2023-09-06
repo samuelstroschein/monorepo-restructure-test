@@ -6,3 +6,4 @@
 
 - no clear separation of product lines/companies.
 - duplication of file structures
+- mirroring repositories will become hard because of the duplication of file structures
